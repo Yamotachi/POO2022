@@ -1,6 +1,6 @@
 # POO2022
 
-<p style="{font-size: 50}">É só copiar e jogar no Eclipse</p>
+<p>É só copiar e jogar no Eclipse</p>
 
 Aula 17/03/2022 - Cópia, referência e encapsulamento, sobrecarga e reuso com o this
 
